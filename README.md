@@ -5,4 +5,5 @@ This project is designed to send and receive messages simultaneously between two
 # Connection
 A peer-to-peer network through socket connection(using Socket module), where any user amongst the two can request(receive) or respond(send) for messages.
 # Screenshots
-![2021-07-03](https://user-images.githubusercontent.com/86179660/124353011-6fa44480-dc21-11eb-8d92-b9415176fe77.png)
+![chat ss](https://user-images.githubusercontent.com/86179660/124353981-4f778400-dc27-11eb-9483-f6fe332b0131.jpg)
+
